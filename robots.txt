@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-go6orn.cuansalam.cfd/sitemap.xml
